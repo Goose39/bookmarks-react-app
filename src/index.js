@@ -9,4 +9,8 @@ ReactDOM.render(
     <App />
   </BrowserRouter>,
   document.getElementById('root')
+<<<<<<< HEAD
   );
+=======
+);
+>>>>>>> context-startingpoint
