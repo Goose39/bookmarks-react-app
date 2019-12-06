@@ -4,6 +4,7 @@ import AddBookmark from './AddBookmark/AddBookmark';
 import BookmarkList from './BookmarkList/BookmarkList';
 import BookmarksContext from './BookmarksContext';
 import Nav from './Nav/Nav';
+import Rating from './Rating/Rating'
 import config from './config';
 import './App.css';
 
